@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-token='464838977:AAFgfpfogeldgiNpVygkK9gZMbv9Rz-j8Yw'
+token='YOUR_TOKEN'
 triggerbad = 'PROBLEM'
 triggergood = 'OK'
 delmiter='%'
